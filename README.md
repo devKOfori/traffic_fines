@@ -1,2 +1,2 @@
 # traffic_fines
-A postgresql optimization project
+!(https://github.com/devKOfori/traffic_fines/blob/master/Traffic%20Fines%20Project/project_decription.png)
